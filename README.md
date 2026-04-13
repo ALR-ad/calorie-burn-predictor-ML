@@ -12,11 +12,13 @@ Data is fetched as a CSV file from Kaggle.
 - Python
 - Scikit-learn
 - Streamlit
+- 
+## 🌐 Live Demo
+[Click here to use the app](https://calorie-burn-predictor-ml-wengwjxrdd5yvxgspmjszh.streamlit.app)
 
 ## Run Locally
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 
-## 🌐 Live Demo
-[Click here to use the app](https://calorie-burn-predictor-ml-wengwjxrdd5yvxgspmjszh.streamlit.app)
+
